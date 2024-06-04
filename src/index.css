@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #f2f2f2 !important;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.note_checklist{
+  background: #fff8b8;
+  border:1px solid #d9d084;
+}
+
+.act{
+  cursor: pointer;
+}
+
+.small-font{
+  font-size: 12px;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
